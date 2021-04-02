@@ -1,0 +1,9 @@
+{
+  "name": "schema-ts",
+  "version": "0.0.1",
+  "description": "Input Validation for Typescript.",
+  "main": "dist/index.js",
+  "repository": "git@github.com:lugggas/schema-ts.git",
+  "author": "luggas <32685131+lugggas@users.noreply.github.com>",
+  "license": "MIT"
+}
