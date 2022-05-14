@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "module": "commonjs",
+        "module": "esm",
         "noImplicitAny": true,
         "outDir": "dist",
         "removeComments": true,
