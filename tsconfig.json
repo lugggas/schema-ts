@@ -1,11 +1,13 @@
 {
     "compilerOptions": {
-        "module": "esm",
+        "module": "esnext",
+        "lib": ["esnext"],
         "noImplicitAny": true,
         "outDir": "dist",
         "removeComments": true,
         "preserveConstEnums": true,
-        "sourceMap": true
+        "sourceMap": true,
+        "allowSyntheticDefaultImports": true
     },
-    "include": ["src/**/*"],
+    "include": ["src/**/*", "test/**/*"],
 }
